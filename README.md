@@ -1,6 +1,6 @@
 # Flight Booking Completion Prediction
 
-A supervised learning project that predicts whether customers **complete a flight booking** (`booking_complete`) using behavioural, itinerary and preference data. Implemented in Python with scikit‑learn to practise end‑to‑end ML pipelines, model evaluation and feature‑importance analysis.[file:77][web:82][web:85]
+A supervised learning project that predicts whether customers **complete a flight booking** (`booking_complete`) using behavioural, itinerary and preference data. Implemented in Python with scikit‑learn to practise end‑to‑end ML pipelines, model evaluation and feature‑importance analysis.
 
 ## Project Structure
 
@@ -52,7 +52,7 @@ Ensure customer_booking.csv is available and update the data_path variable at th
    ```
    python Flight Prediction using Random Forest.ipynb
    ```
-The script will train the model, print evaluation metrics, display the confusion‑matrix and feature‑importance plots, and write feature_importance_random_forest.csv to disk.[file:77]
+The script will train the model, print evaluation metrics, display the confusion‑matrix and feature‑importance plots, and write feature_importance_random_forest.csv to disk.
 
 ## Author
 Utham Kumar Mohanlal
